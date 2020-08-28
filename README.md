@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<pvpuno>](https://circleci.com/github/pvpuno/house-prediction-microservices.svg?style=svg)](https://circleci.com/gh/circleci/house-prediction-microservices)
 
 ## Project Overview
 
