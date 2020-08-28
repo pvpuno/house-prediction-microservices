@@ -1,4 +1,4 @@
-[![pvpuno](https://circleci.com/github/pvpuno/house-prediction-microservices.svg?style=svg)](https://circleci.com/github/pvpuno/house-prediction-microservices)
+[![pvpuno](https://circleci.com/gh/pvpuno/house-prediction-microservices.svg?style=svg)](https://circleci.com/gh/pvpuno/house-prediction-microservices)
 
 ## Project Overview
 
