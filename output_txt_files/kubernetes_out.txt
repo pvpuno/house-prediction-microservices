@@ -1,0 +1,8 @@
+(.devops) ec2-user:~/environment/local_environment/project-ml-microsrv $ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "predictapp" already exists
+NAME         READY   STATUS    RESTARTS   AGE
+predictapp   1/1     Running   0          68s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
